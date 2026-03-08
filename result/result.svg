@@ -43,7 +43,7 @@
         }
 
         .divider {
-            stroke: #30363d;
+            stroke: #E4E2E2;
             stroke-width: 1;
         }
 
@@ -104,7 +104,7 @@
     </style>
 
     <!-- Card background -->
-    <rect x="0.5" y="0.5" rx="6" height="99%" stroke="#30363d" width="479" fill="#0d1117" stroke-opacity="1" />
+    <rect x="0.5" y="0.5" rx="6" height="99%" stroke="#E4E2E2" width="479" fill="#0D1117" stroke-opacity="1" />
 
     <!-- Header -->
     <g transform="translate(25, 35)">
@@ -137,13 +137,13 @@
         <!-- Rank -->
         <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 27)">
             <text class="stat" y="12.5">현 순위:</text>
-            <text class="stat-value" x="180" y="12.5">49,357위</text>
+            <text class="stat-value" x="180" y="12.5">49,576위</text>
         </g>
 
         <!-- Coding test 정답률 -->
         <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 54)">
             <text class="stat" y="12.5">코딩테스트 정답률:</text>
-            <text class="stat-value" x="180" y="12.5">21.6%</text>
+            <text class="stat-value" x="180" y="12.5">21.3%</text>
         </g>
 
         <!-- Coding test only solved -->
@@ -161,7 +161,7 @@
         <!-- Register period -->
         <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 132)">
             <text class="stat" y="12.5">가입 기간:</text>
-            <text class="stat-value" x="180" y="12.5">823일</text>
+            <text class="stat-value" x="180" y="12.5">834일</text>
         </g>
 
     </g>
