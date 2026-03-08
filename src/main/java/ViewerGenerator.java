@@ -61,7 +61,7 @@ public class ViewerGenerator {
         }
 
         .divider {
-            stroke: #30363d;
+            stroke: #E4E2E2;
             stroke-width: 1;
         }
 
@@ -122,7 +122,7 @@ public class ViewerGenerator {
     </style>
 
     <!-- Card background -->
-    <rect x="0.5" y="0.5" rx="6" height="99%%" stroke="#30363d" width="479" fill="#0d1117" stroke-opacity="1" />
+    <rect x="0.5" y="0.5" rx="6" height="99%%" stroke="#E4E2E2" width="479" fill="#0D1117" stroke-opacity="1" />
 
     <!-- Header -->
     <g transform="translate(25, 35)">
