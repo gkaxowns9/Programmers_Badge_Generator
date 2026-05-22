@@ -186,7 +186,7 @@ public class ViewerGenerator {
 
     <!-- Bottom divider -->
     <line x1="25" y1="220" x2="455" y2="220" class="divider" />
-    <text x="25" y="235" class="subheader">Programmers Stats Viewer (rrayy-25809 Ver.)</text>
+    <text x="25" y="235" class="subheader">Programmers Stats Viewer (gkaxowns9 Ver.)</text>
 </svg>
                 """;;
         // 순서: 레벨 채워지는 정도, 이름, 레벨, 점수, 순위, 정답률, 해결한 문제 수, 경력 점수, 가입 기간
