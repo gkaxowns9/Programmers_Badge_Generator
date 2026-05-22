@@ -137,7 +137,7 @@
         <!-- Rank -->
         <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 27)">
             <text class="stat" y="12.5">현 순위:</text>
-            <text class="stat-value" x="180" y="12.5">50,604위</text>
+            <text class="stat-value" x="180" y="12.5">50,684위</text>
         </g>
 
         <!-- Coding test 정답률 -->
@@ -161,12 +161,12 @@
         <!-- Register period -->
         <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 132)">
             <text class="stat" y="12.5">가입 기간:</text>
-            <text class="stat-value" x="180" y="12.5">905일</text>
+            <text class="stat-value" x="180" y="12.5">909일</text>
         </g>
 
     </g>
 
     <!-- Bottom divider -->
     <line x1="25" y1="220" x2="455" y2="220" class="divider" />
-    <text x="25" y="235" class="subheader">Programmers Stats Viewer (rrayy-25809 Ver.)</text>
+    <text x="25" y="235" class="subheader">Programmers Stats Viewer (gkaxowns9 Ver.)</text>
 </svg>
